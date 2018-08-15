@@ -1,4 +1,4 @@
-# JSConfCo 2018 FAQ
+# FAQ JSConfCo 2018
 1. When the next batch of tickets will be available for sale?
 	Our Early bird tickets ended in July, Our next batch will be released in mid August, right now we don't have sponsored tickets but we will release more on the next batch. The last opportunity to get you ticket is late bird in September.
 2.	How to get a ticket by donating 25% to the scholarships program?
