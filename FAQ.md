@@ -27,7 +27,7 @@ Yes! You can all the information in our [Call For Proposals](https://cfp.jsconf.
 ## Sponsoring
 
 **Can I sponsor JSConf CO?**
-Yes! You can find more information in our [sponsorship prospectus](https://jsconf.co/files/Jsconf_Prospectum_2018.pdf)
+Yes! You can find more information in our [sponsorship prospectus](https://assets.ctfassets.net/xhtdh1m1n75y/6Br2FLmQucOs6gUOuoo4y6/d917449e5344e0674f6fca09e54fdfa7/Compressed.Jsconf_Prospectum_2018.pdf)
 
 ## Past Events
 
