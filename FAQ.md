@@ -1,21 +1,35 @@
 # FAQ JSConfCo 2018
-1. When the next batch of tickets will be available for sale?
-	Our Early bird tickets ended in July, Our next batch will be released in mid August, right now we don't have sponsored tickets but we will release more on the next batch. The last opportunity to get you ticket is late bird in September.
-2.	How to get a ticket by donating 25% to the scholarships program?
-	Our next batch will be released in mid August, in this date, we will have the scholarships tickets.
-3. Call for Papers CFP
-	The CFP are closed from July 31th. We will be notifying the selected talks in August.
-4. Schedule
-	Right now the schedule is in construction. It is 2 days of talks, around 16 speakers and 8 lightning talks
-5. Do you want to be sponsor ?
-	Get more information about our sponsorship packet http://new.jsconf.co/files/Jsconf_Prospectum_2018.pdf
-6. What speakers are comming?
-	JsConf is in CFP review process currently, You can see the speakers that have been already selected in the next link https://jsconf.co/speakers/
-7. How was the past events?
-	You can check the JsConf 2017 videos in https://www.youtube.com/channel/UCIK8anLUIq0PHurZzNWe6IQ.
-8. What is the language of conference?
-	JsConf Colombia has talks in Spanish and English. We will provide translation devices in the conference
-9. Diversity scholarships.
-	We have a scholarships program. Registration was closed on August 12.
-10. Discount for groups
-	If you have a community or group, contact us to hola@jsconf.co and get a preferential discount on your tickets, this applies for at least 6 people. (limited tickets available).
+
+## Attending
+
+**When the next batch of tickets will be available for sale?**
+
+Ticket sales are open right now! [Click here to buy one.](https://ti.to/colombia-dev/jsconfco)
+
+**Are talks in English or in Spanish?**
+
+We have talks in both languages and provide interpretation services with in-ear devices for all attendees who require it, free of charge.
+
+**What if I can't afford your event?**
+
+30% of our tickets are reserved for opportunity scholarships, we are currently selecting the recipients of these opportunities for 2018.
+
+**Do you offer group discounts?**
+
+Kind off. We offer community discounts for people outside of Medellín. In order to qualify, find a group of 6 peopls and email us at hola@jsconf.co. These discounts are for community members only and *don't apply to companies*. Our event is non-profit organized by volunteers who donate their personal time for the benefit of the community. If you are a company we expect you to pay full price to support our efforts.
+
+## Speaking
+
+**Can I speak at JSConf CO?**
+
+Yes! You can all the information in our [Call For Proposals](https://cfp.jsconf.co)
+
+## Sponsoring
+
+**Can I sponsor JSConf CO?**
+Yes! You can find more information in our [sponsorship prospectus](https://assets.ctfassets.net/xhtdh1m1n75y/6Br2FLmQucOs6gUOuoo4y6/d917449e5344e0674f6fca09e54fdfa7/Compressed.Jsconf_Prospectum_2018.pdf)
+
+## Past Events
+
+**Where can I find information on previous events?**
+You can see our past websites in our [Archive](https://archive.jsconf.co/) and videos of past events in our [Youtube Channel](https://www.youtube.com/channel/UCIK8anLUIq0PHurZzNWe6IQ)
